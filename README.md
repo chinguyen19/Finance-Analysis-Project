@@ -42,7 +42,7 @@ Given this stark forecast, the finance team is now in a position to sound the al
 
 --**2. By Service**
 
-**QUESTION 2: “By service line, how  do the Margins look like? When are they optimized?”**
+**QUESTION 2: *“By service line, how  do the Margins look like? When are they optimized?”***
 
 <p align="center">
   <img src="https://github.com/chinguyen19/Finance-Analysis-Project/blob/3be4caaa18407d45c2cf64da3df594dbb545c245/By-Service.png" width="500">
