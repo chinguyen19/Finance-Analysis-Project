@@ -25,7 +25,7 @@ I embarked on this analytical journey by synthesizing financial data sets into a
 
 ### **Results - Dashboard**
 
---** 1. Overview sheet**
+--**1. Overview sheet**
 
 **QUESTION 1: *“How does the company perform in overall? Is there somethings alarming, like significant drop, or significant increase?”***
 
@@ -40,7 +40,7 @@ I embarked on this analytical journey by synthesizing financial data sets into a
 
 Given this stark forecast, the finance team is now in a position to sound the alarm and steer the company's focus toward overhauling the Marketing service's financial strategy. Corrective measures could potentially recover up to £100,000 in revenue for 2024, realigning the service line's performance with the firm's financial expectations
 
---** 2. By Service**
+--**2. By Service**
 
 **QUESTION 2: *“By service line, how  do the Margins look like? When are they optimized?”**
 
